@@ -2,7 +2,9 @@
 
 ## Konzept für die elektronische Unterschriftensammlung mit e-ID und sedex
 
-**Autor:** Sandro Scalco · **Eingabe der** Stiftung für direkte Demokratie · **Stand:** 10. September 2026
+**Autor:** Sandro Scalco · 
+**Eingabe der** Stiftung für direkte Demokratie · 
+**Stand:** 10. September 2026
 
 Dieses Konzept ist ein Beitrag einer teilnehmenden Person zum partizipativen Prozess der Bundeskanzlei und kein Dokument der Bundeskanzlei. Es baut auf den gemeinsamen Vorarbeiten «Fast Track: Pilotprojekt E-Collecting mit E-ID \- How low can we go?» (Graf/Schönenberger/Scalco/Andrey, Winterkongress 2025\) und dem Konzept V2.1 (Scalco, Mai 2025\) auf. Die vorliegende Weiterentwicklung zum durchgehend dezentralen Modell stammt vom genannten Autor allein; sie ist mit keiner weiteren Person gemeinsam verfasst worden.
 
@@ -163,7 +165,7 @@ Davon zu trennen ist der **Sammelstand als Transparenzinformation**. Er entsteht
 
 Für die Gemeinden gilt das Prinzip des Arbeitsdokuments der Bundeskanzlei: kein zusätzlicher betrieblicher Aufwand, kein neuer Prozess. Die Willensbekundung trifft im selben sedex-Postfach ein wie die täglichen Meldungen der Registerharmonisierung. Drei Integrationsstufen stehen offen, frei wählbar je nach Digitalisierungsgrad:
 
-- **Stufe A** \- die Kanzlei druckt den PDF-Bogen aus dem sedex-Eingang und bescheinigt ihn wie eine Papierunterschrift; nötig ist dafür exakt nichts Neues.  
+- **Stufe A** \- die Kanzlei öffnet die sedex-Meldung (oder druckt den PDF-Bogen aus dem sedex-Eingang) und bescheinigt die Bekundung wie eine Papierunterschrift; nötig ist dafür exakt nichts Neues. Die Gesamtbescheinigung des digitalen sedex Eingangs gehen auf Papier zurück ans Komitee, wie heute (falls es nicht eine Liste 0 ist). Zusätzlich kann die Kanzlei die Zahl der bescheinigten Bekundungen über ein Login im E-Collecting-System des Bundes erfassen \- die manuelle Variante zur automatischen Statistikmeldung in Stufe C. So liefert auch eine Gemeinde ohne Fachanwendung den Sammelstand; ob und in welcher Form dieser angezeigt wird, ist Gegenstand von [Parameter 5](https://github.com/swiss/e-collecting/issues/18).  
 - **Stufe B** \- die Einwohnerkontroll-Software liest die strukturierten Daten (eCH-XYZ1), gleicht automatisch mit Stimmregister und Unterschriftenkontrolle ab und meldet die Bescheinigung strukturiert zurück (eCH-XYZ3).  
 - **Stufe C** \- Vollintegration inklusive automatischer Statistikmeldung (eCH-XYZ2).
 
