@@ -22,7 +22,6 @@ Dieses Konzept ist ein Beitrag einer teilnehmenden Person zum partizipativen Pro
   - [7 Volksbegehren aus LINDAS](#7-volksbegehren-aus-lindas)
   - [8 Übermittlung und Signatur](#8-übermittlung-und-signatur)
   - [9 Gemeindeseite: Bescheinigung wie bisher](#9-gemeindeseite-bescheinigung-wie-bisher)
-    - [Vom Gemeindekanal zum Komitee](#vom-gemeindekanal-zum-komitee)
   - [10 Sammelnde Akteur:innen, Sammellink und «Liste 0»](#10-sammelnde-akteurinnen-sammellink-und-liste-0)
   - [11 Rolle der Bundeskanzlei](#11-rolle-der-bundeskanzlei)
   - [12 Sicherheit, Datenschutz, Missbrauch](#12-sicherheit-datenschutz-missbrauch)
@@ -174,23 +173,13 @@ Die Stufen sind kompatibel; eine Gemeinde kann jederzeit aufsteigen. Die Beschei
 
 Abbildung 5: Hybrid \- Papier und digital laufen in der Unterschriftenkontrolle der Gemeinde zusammen
 
-### Vom Gemeindekanal zum Komitee
-
-Wie die bescheinigten Bekundungen von der Gemeinde zum Komitee gelangen, beantwortet das Konzept bewusst konservativ: **auf dem heutigen Weg**. Die Gemeinde sendet den bescheinigten Bogen an die Adresse, die auf dem Bogen steht \- beim gedruckten Bogen aus dem sedex-Eingang genauso wie beim Papierbogen von der Strasse. Für Stufe A ändert sich damit nichts, und es entsteht kein neuer Prozess.
-
-Für Gemeinden auf Stufe B und C steht zusätzlich ein digitaler Rückweg offen: Das Komitee betreibt einen eigenen sedex-Anschluss oder nutzt den Zugangsdienst seines Kantons und empfängt die Bescheinigungen strukturiert (eCH-XYZ3). Das ist eine Effizienz-, keine Architekturfrage \- beide Wege führen zum selben Ergebnis, und die Gemeinde entscheidet nicht anders als heute.
-
-Entscheidend ist, woher die Gemeinde die Zieladresse kennt. Sie reist in der Willensbekundung mit: Die App übernimmt sie aus dem digitalen Sammelbogen, den die Bürgerin gewählt hat (Kapitel 10). Damit ist auch der Fall **mehrerer Komitees** gelöst, der bei Referenden die Regel und nicht die Ausnahme ist. Bei einem Referendum können mehrere Komitees unabhängig voneinander sammeln, und Einzelpersonen können eigenständig gültige Unterschriftenlisten führen, sofern sie die Formvorschriften einhalten (vgl. Parameter 12). Im Gemeindekanal entspricht jeder dieser Sammlungen ein eigener digitaler Sammelbogen mit eigener Kennung und eigener Zustelladresse. Die Bürgerin wählt beim Unterstützen, welchen Bogen sie unterzeichnet; die Gemeinde bescheinigt pro Bogen und stellt pro Bogen zu. Die Prüfung im Stimmregister bleibt davon unberührt \- sie gilt der Person, nicht dem Bogen \- und auch die Doppelunterzeichnung wird weiterhin über alle Bogen und Kanäle hinweg in der Unterschriftenkontrolle erkannt.
-
-Weil die Zustelladresse Teil des Sammelbogens und nicht Teil der Plattform ist, bildet der Kanal die föderale Vielfalt der Sammelnden unverändert ab: Ein neues Komitee braucht keine Freischaltung durch eine zentrale Betriebsstelle, sondern einen Sammelbogen \- so wie es heute eine Unterschriftenliste braucht.
-
 ## 10 Sammelnde Akteur:innen, Sammellink und «Liste 0»
 
 Ein dezentraler Kanal schliesst sammelnde Organisationen nicht aus \- er ordnet sie anders ein. Formell verantwortlich für eine Sammlung ist das Komitee; in der Praxis unterstützen es weitere Organisationen, freiwillig oder kommerziell, und bei Referenden sammeln mehrere Komitees nebeneinander (Parameter 12). Der Gemeindekanal bildet das über den **digitalen Sammelbogen** ab: Jede sammelnde Akteur:in verfügt über einen eigenen Bogen mit eindeutiger Kennung. Die Kennung wird der Willensbekundung beigelegt und bleibt bis zur Bescheinigung erhalten.
 
-Der Zugang dazu ist der **Sammellink \- als QR-Code**. Die Sammlerin auf der Strasse zeigt den Code auf Papier, Plakat oder Bildschirm; die Bürgerin scannt ihn mit der App, sieht Begehren und Sammelbogen und bestätigt mit Biometrie oder PIN. Technisch entsteht dadurch kein Zusatzaufwand: Der QR-Code trägt nur die Kennung des Sammelbogens. Die Bekundung nimmt danach denselben Weg wie jede andere \- signiert, für die Wohngemeinde verschlüsselt, über sedex zugestellt. Der Strassensammlung fehlt damit nichts gegenüber einer zentralen Plattform, und die sammelnde Akteur:in erhält ihre Zuordnung, ohne dass eine zentrale Stelle mitliest. Der Kanal funktioniert in beide Richtungen: Wer den QR-Code von der Strasse kennt, kann ihn ebenso von einem Flyer, aus einem Mail oder von einer Website scannen.
+Der Zugang dazu ist der **Sammellink \- bspw. als QR-Code**. Die Sammlerin auf der Strasse zeigt den Code auf Papier, Plakat oder Bildschirm; die Bürgerin scannt ihn mit dem Smartphone, sieht Begehren und Sammelbogen (Liste 0, 1, 2, 3 etc.) und bestätigt mit Biometrie oder PIN. Technisch entsteht dadurch kein Zusatzaufwand: Der QR-Code trägt nur die Kennung des Sammelbogens. Die Bekundung nimmt danach denselben Weg wie jede andere \- signiert, für die Wohngemeinde verschlüsselt, über sedex zugestellt. Der Strassensammlung fehlt damit nichts gegenüber einer zentralen Plattform, und die sammelnde Akteur:in erhält ihre Zuordnung, ohne dass eine zentrale Stelle mitliest. Der Kanal funktioniert in beide Richtungen: Wer den QR-Code von der Strasse kennt, kann ihn ebenso von einem Flyer, aus einem Mail oder von einer Website scannen.
 
-Wer **ohne** Sammellink unterschreibt \- direkt aus der Begehrensliste in der App \- landet auf der **«Liste 0»**, dem nicht akteursgebundenen Sammelbogen eines Begehrens. Sie ist im Gemeindekanal der Normalfall und keine Ausnahmebehandlung: Der Weg von der Bürgerin zur Gemeinde führt ohnehin an jeder sammelnden Organisation vorbei. Hinter der «Liste 0» steht keine private Akteur:in, deren Identität offenzulegen wäre; die Registrierungs- und Auskunftspflichten der Parameter N-15 und N-22 greifen dort folgerichtig nicht. Zustelladresse ist das formell verantwortliche Komitee.
+Wer **ohne** Sammellink unterschreibt \- direkt aus der Begehrensliste in der App \- landet auf der **«Liste 0»** (oder wählt die gewünschte Liste aus), dem nicht akteursgebundenen Sammelbogen eines Begehrens. Sie ist im Gemeindekanal der Normalfall und keine Ausnahmebehandlung: Der Weg von der Bürgerin zur Gemeinde führt ohnehin an jeder sammelnden Organisation vorbei. Hinter der «Liste 0» steht keine private Akteur:in, deren Identität offenzulegen wäre; die Registrierungs- und Auskunftspflichten der Parameter N-15 und N-22 greifen dort folgerichtig nicht.
 
 Zu den Ausprägungen der Parameter 12 und 4 verhält sich das Konzept damit **offen**: Der Kanal kann die Zuordnung zu einer Akteur:in zwingend verlangen, sie freiwillig anbieten oder ganz darauf verzichten \- im letzten Fall existiert nur die «Liste 0». Diese Wahl trifft das Konzept bewusst nicht. Es stellt sicher, dass keine der drei Ausprägungen an der Architektur scheitert.
 
@@ -200,7 +189,7 @@ Ein dezentrales System macht den Bund nicht überflüssig. Es weist der Bundeska
 
 - **Amtliche Quelle der Begehren.** Sie führt die Volksbegehren und ihre Fristen; die App liest sie über LINDAS aus dieser Quelle, statt sie selbst zu verwalten (Kapitel 7). Für kantonale und kommunale Begehren ist die Erweiterung dieses Datenbestands die Voraussetzung jedes späteren Ausbaus.
 - **Vorprüfung und Feststellung des Zustandekommens.** Titel- und Textvorprüfung von Initiativen sowie die Feststellung, ob ein Begehren zustande gekommen ist, bleiben unverändert bei ihr. Der Kanal ändert daran nichts.
-- **Normierung.** Sie legt gemeinsam mit den Kantonen fest, was ein digitaler Sammelbogen ist, welche Meldungstypen zulässig sind und wie der Bogen aussieht \- konkret: die Verankerung der vorgeschlagenen Standards eCH-XYZ1 bis eCH-XYZ3 sowie des Meldungstyps in der sedex-Domäne. Ohne diese Normierung gibt es keinen Gemeindekanal.
+- **Normierung.** Sie legt gemeinsam mit den Kantonen fest, was ein digitaler Sammelbogen ist, welche Meldungstypen zulässig sind und wie der Bogen aussieht \- konkret: die Verankerung der vorgeschlagenen Standards eCH-XYZ1 bis eCH-XYZ3 sowie des Meldungstyps in der sedex-Domäne. 
 - **Regelung des Versuchsbetriebs.** Bewilligung, Rahmenbedingungen und Auswertung des Versuchs liegen beim Bund. Er entscheidet, welche Begehren teilnehmen und wie die staatspolitischen Auswirkungen untersucht werden.
 - **Transparenz und Aufsicht.** Sie ist Adressatin der anonymen Statistikmeldungen und damit die Stelle, die den Sammelstand ausweist (Kapitel 8).
 
